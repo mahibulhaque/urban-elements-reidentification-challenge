@@ -1,0 +1,23 @@
+# Core deep learning
+torch>=2.0.0
+torchvision>=0.15.0
+torchaudio>=2.0.0
+
+# Model hub & vision transformers
+timm>=1.0.0
+
+# Tensor utilities
+einops
+
+# Configuration
+yacs
+
+# Image processing
+scikit-image
+opencv-python
+
+# Logging
+tensorboard
+
+# Numerical (keep below 2.0 for PyTorch compatibility)
+numpy<2
